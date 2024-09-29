@@ -23,5 +23,19 @@ store can understand their customers and grow more sales in 2023 & 2024
 
 -Percentage of Total Orders delivered
 
--Dashboard Interaction <a
+-Dashboard Interaction <a href="https://github.com/shivanipati/Data-Analysis--Dashboard/blob/main/Screenshot%202024-09-29%20152916.png">View Dashboard</a>
+
+##Process
+-Verify data for any missing values and anomalies, and sort out the same.
+
+-Made sure date is consistent and clean with respect to data type ,data format and values used.
+
+-Created pivot tables according to the question asked.
+
+-Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+ ![Screenshot 2024-09-29 152916](https://github.com/user-attachments/assets/c98978f5-9008-4273-ab5c-1c6c82acbb96)
+
+
 
