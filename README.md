@@ -25,7 +25,8 @@ store can understand their customers and grow more sales in 2023 & 2024
 
 -Dashboard Interaction <a href="https://github.com/shivanipati/Data-Analysis--Dashboard/blob/main/Screenshot%202024-09-29%20152916.png">View Dashboard</a>
 
-##Process
+## Process
+
 -Verify data for any missing values and anomalies, and sort out the same.
 
 -Made sure date is consistent and clean with respect to data type ,data format and values used.
